@@ -1,0 +1,34 @@
+@media screen and (max-width: 700px){
+header .container{
+    display: block;
+    flex-direction: unset;
+    
+      
+}
+.botao{
+    margin-top: 5px;
+    width: 200px;
+
+}
+.user{
+    margin-left: 370px;
+    display: block;
+    flex-direction: unset;
+}
+.item{
+    height: 600px;
+    width: 400px;
+}
+.item:hover{
+    width: 90%;
+    height: 90%;
+   display: inline-block;
+   
+ }
+ .carrosel-filmes{
+    margin-left: 5px;
+ }
+ .box-filme{
+    margin-left: 20px;
+ }
+}
