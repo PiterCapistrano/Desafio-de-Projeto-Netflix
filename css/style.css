@@ -192,10 +192,12 @@ header nav a:hover{
     width: 25px;
 }
 .dados li a {
+    margin-left: 10px;
     text-decoration: none;
     color: var(--branco);
-    padding-left: 10px;
+
 }
 .dados {
+    margin-left: 42%;
     list-style: none;
 }
